@@ -22,7 +22,7 @@ Atualmente inclui as seguintes etapas:
 
 **Etapas**
 - Preparação do ambiente de Deep Learning
-- Criação de dataset do zero
+- Criação de dataset do zero ou usar um modelo aprendizado não supervisionado (sem labels)
 - Treinamento do modelo
 - Avaliação e validação do modelo
 
